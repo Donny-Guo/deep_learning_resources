@@ -26,6 +26,16 @@ A collection of useful deep learning resources.
 
 
 
+## Preferences
+
+OS: Linux, Windows, macOS
+
+Package manager: Pip/compile from source, conda, docker
+
+DL-Frameworks: PyTorch, JAX, Tensorflow
+
+
+
 ## References
 
 1. ESE 546 Principles of Deep Learning Syllabus by Pratik Chaudhari (https://pratikac.github.io/)
